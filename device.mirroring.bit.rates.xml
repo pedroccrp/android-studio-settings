@@ -1,0 +1,15 @@
+<application>
+  <component name="BitRates">
+    <option name="bitRateTrackers">
+      <map>
+        <entry key="samsung|SM-S911B|arm64-v8a|34">
+          <value>
+            <BitRateTracker>
+              <option name="bitRate" value="5000000" />
+            </BitRateTracker>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
