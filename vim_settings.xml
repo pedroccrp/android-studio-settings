@@ -68,6 +68,7 @@
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
+      <idea-undo enabled="true" />
     </notifications>
   </component>
 </application>
