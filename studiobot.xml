@@ -2,5 +2,10 @@
   <component name="StudioBotSettings">
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1730296035982">Explain build error: Expecting an element</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
